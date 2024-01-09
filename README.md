@@ -1,4 +1,6 @@
-# Employee Attrition Analytics
+# Who Is Leaving Laxana Development?
+
+## Employee Attrition Analytics - SQL Project
 
 ### Table of Contents
 - [Project Overview](#project-overview)
