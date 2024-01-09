@@ -70,7 +70,6 @@ FROM DepartmentAttrition
 ORDER BY AttritionRate DESC;
 
 ```
-
 ![Task2](https://github.com/jmwaigom/Employee-Atttrition-Analytics/assets/155841258/5a4ff8e5-6c23-44c3-8250-7e011e911b83)
 
 #### Task 3: For each department, what is the average tenure of an attrited employee versus a current one?
@@ -85,6 +84,9 @@ GROUP BY Department
 ORDER BY AverageTenureAttrited;  
 
 ```
+![Task3](https://github.com/jmwaigom/Employee-Atttrition-Analytics/assets/155841258/a58ff0b9-dc69-4c56-82f6-6dc711f9a12c)
+
+
 #### Task 4: Display the number of attritted employees according to job role and department
 Creating CTE to display total number of attrited employees according to job role and department. Afterwards, using window functions to calculate percentage (attrition rate) according to job role and department
 ```
