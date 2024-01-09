@@ -70,6 +70,9 @@ FROM DepartmentAttrition
 ORDER BY AttritionRate DESC;
 
 ```
+
+![Task2](https://github.com/jmwaigom/Employee-Atttrition-Analytics/assets/155841258/5a4ff8e5-6c23-44c3-8250-7e011e911b83)
+
 #### Task 3: For each department, what is the average tenure of an attrited employee versus a current one?
 Using aggregate functions to calculate average tenure for attrited and current employees
 ```
