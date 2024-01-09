@@ -109,6 +109,13 @@ ORDER BY OverallAttritionRate DESC
 -- LIMIT 3;
 
 ```
+![Task4](https://github.com/jmwaigom/Employee-Atttrition-Analytics/assets/155841258/c2ddac67-34cd-485e-a4f4-82a3c0ab5524)
+
+
+
+![Task4b](https://github.com/jmwaigom/Employee-Atttrition-Analytics/assets/155841258/3206d764-32cc-4867-b81b-f0472c462ebe)
+
+
 #### Task 5: Based on results from task 4, it appears that Laboratory Technician, Sales Executive and Research Scientist roles experienced the highest attrition rates. Compare the average tenure of these roles for both attrited and current employees
 ```
 SELECT 
