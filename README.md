@@ -111,8 +111,6 @@ ORDER BY OverallAttritionRate DESC
 ```
 ![Task4](https://github.com/jmwaigom/Employee-Atttrition-Analytics/assets/155841258/c2ddac67-34cd-485e-a4f4-82a3c0ab5524)
 
-
-
 ![Task4b](https://github.com/jmwaigom/Employee-Atttrition-Analytics/assets/155841258/3206d764-32cc-4867-b81b-f0472c462ebe)
 
 
@@ -127,6 +125,8 @@ WHERE JobRole IN ('Laboratory Technician', 'Sales Executive', 'Research Scientis
 GROUP BY JobRole;
 
 ```
+![Task55](https://github.com/jmwaigom/Employee-Atttrition-Analytics/assets/155841258/b758fe86-0e75-45d2-9a76-ca1dc1f90af9)
+
 ### Results
 After the analysis, the attrition rate was found to be 16.1% which is about three times higher than the target (5%). Sales has the highest rate of 20.6%, followed by HR (19.0)%, then RnD (13.8%).   
 
