@@ -27,6 +27,9 @@ rate of attrition and the most affected department and roles. Finally, he wants 
 ### Assumptions
 Employee attrition could be due to voluntary resignation, termination or death. However, in this analysis, attrition has been fully attributed to voluntary resignation for two reasons. First, there is no data to reflect death or termination within the dataset. Second, this approach allows the company to focus more on enhancing employee's experience 
 
+### Data Source
+The primary dataset used for this analysis was a csv file titled 'hr_data' which contained detailed information about employees at Laxana Development. The dataset was sourced from Kaggle, and it can be downloaded [here](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
+
 ### Data Analysis
 
 #### Task 1: Calculate the attrition rate across the company 
