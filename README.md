@@ -1,4 +1,5 @@
 # Who Is Leaving Laxana Development?
+![project1image](https://github.com/jmwaigom/Employee-Atttrition-Analytics/assets/155841258/7aede357-8ae5-4074-afc8-b922d4d0078c)
 
 ## Employee Attrition Analytics - SQL Project
 
