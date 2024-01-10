@@ -15,7 +15,7 @@
 
 ### Project Overview
 
-The board of directors at Laxana Development just appointed a new Chief Executive Office (CEO) to oversee company operations moving forward. 
+The board of directors at Laxana Development just appointed a new Chief Executive Officer (CEO) to oversee company operations moving forward. 
 One of the major objectives of the new CEO within the first 90 days in office is to design an initiative that will encourage employee retention within the company. 
 He believes that the company employs great talent, so he wants to keep attrition rate as low as 5% across the company and 10% in each of the three departments (Sales, Human Resources/HR and Research & Development/RnD). 
 Before he sets any plan in motion, he wants to understand the current state of employee attrition. So he has cascaded an assignment down to a junior analyst to conduct a preliminary exploaration to find out the current 
