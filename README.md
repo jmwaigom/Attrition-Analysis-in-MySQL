@@ -47,7 +47,7 @@ SELECT
 FROM hr_data
 WHERE Attrition = 'Yes'
 ```
-*From the query above, the company attrition rate was found to be *16.1%*
+*From the query above, the company attrition rate was found to be 16.1%*
 
 #### Task 2: Calculate the departmental attrition rate as a percentage of total employees per department
 
