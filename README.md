@@ -10,7 +10,7 @@
 - [Data Source](#data-source)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
-- [Recommendations](#recommedations)
+- [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
 ### Project Overview
